@@ -5,8 +5,8 @@ This is Kurdish(Sorani) translation updates for Question2Answer.
   
  Installation:
 
-    Clone or download this repository.
-    Copy the directory ar into qa_lang directory.
-    Select the Kurdish translation from the Admin section.
+    1. Clone or download this repository.
+    2. Copy the directory ar into qa_lang directory.
+    3. Select the Kurdish translation from the Admin section.
 
 This translation is done by kitn.net team.
